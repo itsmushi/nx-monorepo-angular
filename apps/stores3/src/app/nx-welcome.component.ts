@@ -568,7 +568,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
                 />
               </svg>
               <span>
-                YouTube channel
+                YouTube channellllllllllllll
                 <span> Nx Show, talks & tutorials </span>
               </span>
               <svg
